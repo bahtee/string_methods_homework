@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    answer = (s.title())
+    return answer
+
+print(main('bahte saLom'))
